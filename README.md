@@ -1,10 +1,10 @@
-# Pangasinan Heritage
+# Pangasinan Heritage Digital
 
 **Student Name:** Princess Mae Manangan
 
 **Selected Framework:** REACT
 
-**Live Website:** https://github.com/princess-mae/pangasinan-digital.git
+**Live Website:** https://princess-mae.github.io/pangasinan-digital/
 
 ---
 
