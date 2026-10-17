@@ -1,16 +1,47 @@
-# React + Vite
+# Pangasinan Heritage
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**Student Name:** Princess Mae Manangan
 
-Currently, two official plugins are available:
+**Selected Framework:** REACT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Website:** https://github.com/princess-mae/pangasinan-digital.git
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## About
 
-## Expanding the Oxlint configuration
+A React web application showcasing heritage sites across Pangasinan —
+including the Hundred Islands, Bolinao Lighthouse,
+ — built using Brad Frost's Atomic Design methodology (atoms,
+molecules, and organisms).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Features
+
+- Responsive navbar with a mobile dropdown menu
+- Live search filtering by site name or location
+- "Load More" button to reveal additional heritage sites
+- About and Contact sections
+
+## Getting Started
+
+In the project directory, you can run:
+
+### `npm install`
+
+Installs all project dependencies. Run this first after cloning.
+
+### `npm start`
+
+Runs the app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder, ready for static
+deployment.
+
+### `npm run deploy`
+
+Builds and publishes the app to GitHub Pages.
+
+## Project Structure (Atomic Design)
